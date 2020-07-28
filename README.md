@@ -9,7 +9,7 @@
  ▀██████▀    ███    █▀      ███    █▀  █▀        ████████▀    ██████████   ███    ███
                                                                            ███    ███
 ```
-![1](1.gif)
-![2](2.gif)
-![3](3.gif)
-![4](4.gif)
+![1](https://github.com/al-esc/al-esc/1.gif)
+![2](https://github.com/al-esc/al-esc/2.gif)
+![3](https://github.com/al-esc/al-esc/3.gif)
+![4](https://github.com/al-esc/al-esc/4.gif)
