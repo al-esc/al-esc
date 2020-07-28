@@ -9,7 +9,4 @@
  ▀██████▀    ███    █▀      ███    █▀  █▀        ████████▀    ██████████   ███    ███
                                                                            ███    ███
 ```
-![1](https://github.com/al-esc/al-esc/blob/master/1.gif)
-![2](https://github.com/al-esc/al-esc/blob/master/2.gif)
 ![3](https://github.com/al-esc/al-esc/blob/master/3.gif)
-![4](https://github.com/al-esc/al-esc/blob/master/4.gif)
